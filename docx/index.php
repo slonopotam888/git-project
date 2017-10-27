@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Заголовок</title>
+</head>
+<body>
+
+</body>
+
+</html>

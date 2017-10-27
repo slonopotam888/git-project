@@ -1,0 +1,5 @@
+# folder logs
+logs/
+
+# игнор текстовых файлов
+docx/*.txt
