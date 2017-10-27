@@ -5,8 +5,7 @@
 <body>
 
 echo "hello gits";
-echo "hello gits";
-echo "hello gits";
+<p>Тестовый текст)))</p>
 
 </body>
 
